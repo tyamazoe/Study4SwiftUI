@@ -50,6 +50,7 @@
 		87919D512B68804E00D697E7 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 		87919D532B68816B00D697E7 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
 		87919D552B6886D800D697E7 /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
+		87919D572B6889EF00D697E7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		87BB3A382B63CA9B0094B8E5 /* Study4SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Study4SwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		87BB3A3B2B63CA9B0094B8E5 /* Study4SwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Study4SwiftUIApp.swift; sourceTree = "<group>"; };
 		87BB3A3D2B63CA9B0094B8E5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -110,6 +111,7 @@
 		87BB3A2F2B63CA9B0094B8E5 = {
 			isa = PBXGroup;
 			children = (
+				87919D572B6889EF00D697E7 /* README.md */,
 				87BB3A3A2B63CA9B0094B8E5 /* Study4SwiftUI */,
 				87BB3A392B63CA9B0094B8E5 /* Products */,
 			);
